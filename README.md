@@ -2,6 +2,7 @@
 # Fractals Generator
 Generates the Mandelbrot Set Fractal based on in-script parameters. Non-GUI based, requires a Python installation and prior knowledge to generate!
 More hard-coded fractals to come (and maybe a custom fractal builder based on equations, if I can figure out how to do that!).
+A lot of research went into figuring out the PIL library so apologies if there are mistakes in the code, I found it from online tutorials from sources such as codingame.com!
 <hr>
  Example images (colour values calculated using a constant value on line 32), all of the Mandelbrot set with a max-iteration, or what I like to call "virtual infinity" of 80 (increasing this value alongside the resolution will increase the detail, but mess with those values at your own risk)
  <br><br>
