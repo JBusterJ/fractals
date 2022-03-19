@@ -16,6 +16,7 @@ A lot of research went into figuring out the PIL library so apologies if there a
 </kbd>
 
 <h3>Next up, the Julia Set!</h3>
-<img src="https://www.mcgoodwin.net/julia/mcmjul1.gif">
+<img src="https://www.mcgoodwin.net/julia/mcmjul1.gif" width=500>
 <p>Planned to be implemented within the next week or so (date of writing this: 14/03/22)</p>
-<img src="https://github.com/JBusterJ/fractals/blob/main/number_theorems.png?raw=true"> Julia Set (Position) (Deep Zoom), 19/03/22. Although the Julia set doesn't look as it is "supposed" to, but it matches the expected output. 
+<img src="https://github.com/JBusterJ/fractals/blob/main/number_theorems.png?raw=true" width=500> Julia Set (Position) (Deep Zoom), 19/03/22. Although the Julia set doesn't look as it is "supposed" to, but it matches the expected output. 
+<h3>Next up, other Fractals! (nextup2, nu2)</h3>
