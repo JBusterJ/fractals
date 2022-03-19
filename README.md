@@ -18,3 +18,4 @@ A lot of research went into figuring out the PIL library so apologies if there a
 <h3>Next up, the Julia Set!</h3>
 <img src="https://www.mcgoodwin.net/julia/mcmjul1.gif">
 <p>Planned to be implemented within the next week or so (date of writing this: 14/03/22)</p>
+<img src="https://github.com/JBusterJ/fractals/blob/main/number_theorems.png?raw=true"> Julia Set (Position) (Deep Zoom), 19/03/22. Although the Julia set doesn't look as it is "supposed" to, but it matches the expected output. 
